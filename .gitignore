@@ -1,0 +1,9 @@
+# Environment variables (contains AWS secrets)
+.env
+
+# Logs and auto-generated files
+logs/
+__pycache__/
+*.pyc
+*.csv
+Dockerfile
